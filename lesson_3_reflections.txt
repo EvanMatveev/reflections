@@ -1,0 +1,4 @@
+When would you want to use a remote repository rather than keeping all your work
+local?
+
+    So that if something happens to your local drive, you'll be always able to restore them frome the remote repository. also, it makes the process of co-working much easier...
